@@ -1,4 +1,4 @@
 {
-  "presets": ["env", "react"],
-  "plugins": ["emotion", "transform-object-rest-spread"]
+  "presets": ["@babel/env", "@babel/react"],
+  "plugins": ["@emotion", "@babel/plugin-proposal-object-rest-spread"]
 }

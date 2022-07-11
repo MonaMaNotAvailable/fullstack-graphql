@@ -26,7 +26,7 @@
   },
   "scripts": {
     "server": "node api/src/server.js",
-    "app": "parcel client/index.html --out-dir client/dist",
+    "app": "parcel client/index.html --dist-dir client/dist",
     "test-server": "jest api/tests"
   },
   "browserslist": {
